@@ -82,7 +82,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partName: Pancreas
   descriptions:
-  - 
+  - ' The nicotine activates nAChR proteins  '
+  - ' Glucago and insulin hormone levels start to increase  '
+  - ' The increase in glucago and insulin causes blood sugar levels to rise  '
+  - ' You now have an increased risk of diabetes and other high blood sugar issues  '
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!64 &4801817534997014541
 MeshCollider:

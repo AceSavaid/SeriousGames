@@ -82,7 +82,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partName: Heart
   descriptions:
-  - 
+  - 'Increased blood pressure  Increased stiffness to arteries '
+  - Elevated heart rate and heightened blood pressure persist.
+  - Irregular heartbeat as a result of excessive strain.
+  - Increased risk of blood clotting means increased risk of stroke.
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!64 &8043837804372561001
 MeshCollider:

@@ -82,7 +82,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partName: Liver
   descriptions:
-  - 
+  - Lipid droplets start building up in the liver due to nicotine aerosol use
+  - The excess in lipid droplets cause hepatic lipid accumulation
+  - ' The hepatic lipid accumulation causes the development of NAFLD (Non-Alcoholic
+    Fatty Liver Disease)   '
+  - ' NAFLD causes an increase in risk of type 2 diabetes, hypertension, cardiovascular
+    disease,liver cirrhosis, among other things  '
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!64 &5073350472502179340
 MeshCollider:

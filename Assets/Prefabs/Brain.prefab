@@ -82,7 +82,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partName: Brain
   descriptions:
-  - 
+  - Higher nicotine usage is harmful to developing brains, particularly in cognitive
+    impairment and neurodevelopment problems.
+  - Higher nicotine usage is harmful to developing brains, particularly in cognitive
+    impairment and neurodevelopment problems.
+  - Higher nicotine usage is harmful to developing brains, particularly in cognitive
+    impairment and neurodevelopment problems.
+  - Higher nicotine usage is harmful to developing brains, particularly in cognitive
+    impairment and neurodevelopment problems.
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!64 &6216981152353296830
 MeshCollider:

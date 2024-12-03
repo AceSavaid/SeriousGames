@@ -82,7 +82,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partName: Lungs
   descriptions:
-  - 
+  - ' Increased resistance to air flow   Increased reactivity to airway contents  '
+  - 'Increased resistance to air flow  '
+  - 'Increased resistance to air flow  '
+  - ' Airway inflammation  Emphysema  '
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!64 &3071860737942775150
 MeshCollider:

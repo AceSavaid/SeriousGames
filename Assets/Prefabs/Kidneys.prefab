@@ -82,7 +82,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partName: Kidneys
   descriptions:
-  - 
+  - The usage of vapes raises the concentration of uric acid in the body
+  - ' A higher level of uric acid can cause kidney injury through creating oxidative
+    stress, inflammation, and collagen deposition  '
+  - ' The side effects of high uric acid levels contribute to the contracting of
+    renal fibrosis  '
+  - ' Renal fibrosis can cause anaemia, fatigue, hypertension, and oedema, among
+    other symptoms  '
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!64 &3159934741936138534
 MeshCollider:

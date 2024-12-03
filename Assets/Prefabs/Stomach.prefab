@@ -82,7 +82,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   partName: Stomach
   descriptions:
-  - 
+  - ' Using nicotine increasing the risk of  Helicobacter pylori infection  '
+  - ' The helicobacter pylori infection cause sores and inflammations in the stomach  '
+  - ' The inflammation and sores cause various side effects, such as stomach pain,
+    bloating, and weight loss, as well as damage your stomachs protective lining  '
+  - ' The damage to your stomachs lining causes an increased risk in conditions like
+    gastritis and peptic ulcers.  '
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!64 &8054353492714540468
 MeshCollider:
