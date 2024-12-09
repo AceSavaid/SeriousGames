@@ -15,6 +15,8 @@ public class PartUIHandler : MonoBehaviour
     public TMP_Text bodyText;
     public TMP_Text descriptionText;
 
+    public bool hideTextbox = false;
+
     public global::System.Int32 Day { get => day; set => day = value; }
 
     // Start is called before the first frame update
@@ -36,14 +38,18 @@ public class PartUIHandler : MonoBehaviour
 
     public void HideBodyMenu()
     {
-
+        descriptionMenu.SetActive(false);
     }
     public void ShowBodyMenu()
     {
-
+        descriptionMenu.SetActive(true);
     }
     public void UpdateBodyInfo(string pname, string pdescription)
     {
+        if (hideTextbox)
+        {
+            ShowBodyMenu();
+        }
         bodyText.text = pname;
         descriptionText.text = pdescription;
     }
@@ -52,6 +58,10 @@ public class PartUIHandler : MonoBehaviour
     {
         bodyText.text = " - ";
         descriptionText.text = " - ";
+        if (hideTextbox)
+        {
+            HideBodyMenu();
+        }
     }
 
     public void IncreaseDay()
